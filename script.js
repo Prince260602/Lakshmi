@@ -30,7 +30,7 @@ Access to Ten Lakshmi is exclusively by invitation.
     popupBody.innerHTML = `
       <form id="form02" method="post" action="https://api.web3forms.com/submit" style="background: rgba(0, 0, 0, 0.8); font-family: 'Times New Roman', serif;
    border-radius: 8px; width: 100%; max-width: 480px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
-    <input type="hidden" name="access_key" value="f4a1814b-741b-4320-996e-6cc50d711831">
+    <input type="hidden" name="access_key" value="ef7d6db9-5581-4525-b98a-ca42fb0056f4">
 
     <h2 style="margin-bottom: 20px; font-size: 20px; text-align: center; text-transform: uppercase;">Contact Us</h2>
 
